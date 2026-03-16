@@ -12,5 +12,5 @@ I am a Data Scientist currently pursuing my Master’s degree. As a dedicated Li
 - **Environment:** Linux (Terminal-first workflow), Git, Docker
 
 ### How to reach me:
-- **LinkedIn:** https://www.linkedin.com/in/anish-paul-singareddy-625311247/
+- **LinkedIn:** [Anish-Paul-Singareddy](https://www.linkedin.com/in/anish-paul-singareddy-625311247/)
 - **GitHub:** You can find my public projects and contributions below!
