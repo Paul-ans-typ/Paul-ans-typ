@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anish Paul Singareddy 👋
 
-<!--
-**Paul-ans-typ/Paul-ans-typ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Scientist currently pursuing my Master’s degree. As a dedicated Linux and tech enthusiast, I enjoy exploring new tools and contributing to the open-source community.
 
-Here are some ideas to get you started:
+- 🛡️ **Current Focus:** I am currently working on predicting malicious prompts for AI to improve LLM security.
+- 🧪 **Tech Stack:** I am deep-diving into **PyTorch** for deep learning and research.
+- 🐧 **Linux:** I spend a lot of my time customizing my environment and exploring Unix-based systems.
+- 🔭 **Goals:** Building more secure and robust AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+- **Data Science:** PyTorch, Python, Scikit-learn
+- **Environment:** Linux (Terminal-first workflow), Git, Docker
+
+### 📫 How to reach me:
+- **LinkedIn:** https://www.linkedin.com/in/anish-paul-singareddy-625311247/
+- **GitHub:** You can find my public projects and contributions below!
